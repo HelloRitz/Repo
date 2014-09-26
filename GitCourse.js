@@ -1,1 +1,3 @@
-console.log('HelloWorld!');
+var HW = 'HelloWorld!';
+console.log(HW);
+alert(HW);
