@@ -1,0 +1,13 @@
+/* 
+ * Nanum Barun Gothic (Korean) http://hangeul.naver.com
+ */
+@font-face {
+  font-family: 'Nanum Barun Gothic';
+  font-style: normal;
+  font-weight: 100;
+  src: local('Nanum Barun Gothic UltraLight'), local('Nanum Barun Gothic-UltraLight'), local('NanumBarunGothic UltraLight');
+  src: url(//github.com/HelloRitz/deliver/raw/master/NanumBarunGothicWebUltraLight.eot);
+  src: url(//github.com/HelloRitz/deliver/raw/master/NanumBarunGothicWebUltraLight.eot?#iefix) format('embedded-opentype'),
+       url(//github.com/HelloRitz/deliver/raw/master/NanumBarunGothicWebUltraLight.woff) format('woff'),
+       url(//github.com/HelloRitz/deliver/raw/master/NanumBarunGothicWebUltraLight.ttf) format('truetype');
+}
