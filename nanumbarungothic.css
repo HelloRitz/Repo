@@ -6,28 +6,28 @@
   font-style: normal;
   font-weight: 400;
   src: local('Nanum Barun Gothic Regular'), local('Nanum Barun Gothic-Regular'), local('NanumBarunGothic Regular');
-  src: url(./NanumBarunGothicWebUltraLight.eot);
-  src: url(./NanumBarunGothicWebUltraLight.eot?#iefix) format('embedded-opentype'),
-       url(./NanumBarunGothicWebUltraLight.woff) format('woff'),
-       url(./NanumBarunGothicWebUltraLight.ttf) format('truetype');
+  src: url(//github.com/HelloRitz/deliver/NanumBarunGothicWebUltraLight.eot);
+  src: url(//github.com/HelloRitz/deliver/NanumBarunGothicWebUltraLight.eot?#iefix) format('embedded-opentype'),
+       url(//github.com/HelloRitz/deliver/NanumBarunGothicWebUltraLight.woff) format('woff'),
+       url(//github.com/HelloRitz/deliver/NanumBarunGothicWebUltraLight.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Nanum Barun Gothic';
   font-style: normal;
   font-weight: 400;
   src: local('Nanum Barun Gothic Regular'), local('Nanum Barun Gothic-Regular'), local('NanumBarunGothic Regular');
-  src: url(./NanumBarunGothicWeb.eot);
-  src: url(./NanumBarunGothicWeb.eot?#iefix) format('embedded-opentype'),
-       url(./NanumBarunGothicWeb.woff) format('woff'),
-       url(./NanumBarunGothicWeb.ttf) format('truetype');
+  src: url(//github.com/HelloRitz/deliver/NanumBarunGothicWeb.eot);
+  src: url(//github.com/HelloRitz/deliver/NanumBarunGothicWeb.eot?#iefix) format('embedded-opentype'),
+       url(//github.com/HelloRitz/deliver/NanumBarunGothicWeb.woff) format('woff'),
+       url(//github.com/HelloRitz/deliver/NanumBarunGothicWeb.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Nanum Barun Gothic';
   font-style: normal;
   font-weight: 700;
   src: local('Nanum Barun Gothic Bold'), local('Nanum Barun Gothic-Bold'), local('NanumBarunGothic Bold');
-  src: url(./NanumBarunGothicWebBold.eot);
-  src: url(./NanumBarunGothicWebBold.eot?#iefix) format('embedded-opentype'),
-       url(./NanumBarunGothicWebBold.woff) format('woff'),
-       url(./NanumBarunGothicWebBold.ttf) format('truetype');
+  src: url(//github.com/HelloRitz/deliver/NanumBarunGothicWebBold.eot);
+  src: url(//github.com/HelloRitz/deliver/NanumBarunGothicWebBold.eot?#iefix) format('embedded-opentype'),
+       url(//github.com/HelloRitz/deliver/NanumBarunGothicWebBold.woff) format('woff'),
+       url(//github.com/HelloRitz/deliver/NanumBarunGothicWebBold.ttf) format('truetype');
 }
