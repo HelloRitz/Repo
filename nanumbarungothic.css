@@ -6,28 +6,28 @@
   font-style: normal;
   font-weight: 400;
   src: local('Nanum Barun Gothic Regular'), local('Nanum Barun Gothic-Regular'), local('NanumBarunGothic Regular');
-  src: url(//github.com/HelloRitz/deliver/NanumBarunGothicWebUltraLight.eot);
-  src: url(//github.com/HelloRitz/deliver/NanumBarunGothicWebUltraLight.eot?#iefix) format('embedded-opentype'),
-       url(//github.com/HelloRitz/deliver/NanumBarunGothicWebUltraLight.woff) format('woff'),
-       url(//github.com/HelloRitz/deliver/NanumBarunGothicWebUltraLight.ttf) format('truetype');
+  src: url(//github.com/HelloRitz/deliver/raw/master/NanumBarunGothicWebUltraLight.eot);
+  src: url(//github.com/HelloRitz/deliver/raw/master/NanumBarunGothicWebUltraLight.eot?#iefix) format('embedded-opentype'),
+       url(//github.com/HelloRitz/deliver/raw/master/NanumBarunGothicWebUltraLight.woff) format('woff'),
+       url(//github.com/HelloRitz/deliver/raw/master/NanumBarunGothicWebUltraLight.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Nanum Barun Gothic';
   font-style: normal;
   font-weight: 400;
   src: local('Nanum Barun Gothic Regular'), local('Nanum Barun Gothic-Regular'), local('NanumBarunGothic Regular');
-  src: url(//github.com/HelloRitz/deliver/NanumBarunGothicWeb.eot);
-  src: url(//github.com/HelloRitz/deliver/NanumBarunGothicWeb.eot?#iefix) format('embedded-opentype'),
-       url(//github.com/HelloRitz/deliver/NanumBarunGothicWeb.woff) format('woff'),
-       url(//github.com/HelloRitz/deliver/NanumBarunGothicWeb.ttf) format('truetype');
+  src: url(//github.com/HelloRitz/deliver/raw/master/NanumBarunGothicWeb.eot);
+  src: url(//github.com/HelloRitz/deliver/raw/master/NanumBarunGothicWeb.eot?#iefix) format('embedded-opentype'),
+       url(//github.com/HelloRitz/deliver/raw/master/NanumBarunGothicWeb.woff) format('woff'),
+       url(//github.com/HelloRitz/deliver/raw/master/NanumBarunGothicWeb.ttf) format('truetype');
 }
 @font-face {
   font-family: 'Nanum Barun Gothic';
   font-style: normal;
   font-weight: 700;
   src: local('Nanum Barun Gothic Bold'), local('Nanum Barun Gothic-Bold'), local('NanumBarunGothic Bold');
-  src: url(//github.com/HelloRitz/deliver/NanumBarunGothicWebBold.eot);
-  src: url(//github.com/HelloRitz/deliver/NanumBarunGothicWebBold.eot?#iefix) format('embedded-opentype'),
-       url(//github.com/HelloRitz/deliver/NanumBarunGothicWebBold.woff) format('woff'),
-       url(//github.com/HelloRitz/deliver/NanumBarunGothicWebBold.ttf) format('truetype');
+  src: url(//github.com/HelloRitz/deliver/raw/master/NanumBarunGothicWebBold.eot);
+  src: url(//github.com/HelloRitz/deliver/raw/master/NanumBarunGothicWebBold.eot?#iefix) format('embedded-opentype'),
+       url(//github.com/HelloRitz/deliver/raw/master/NanumBarunGothicWebBold.woff) format('woff'),
+       url(//github.com/HelloRitz/deliver/raw/master/NanumBarunGothicWebBold.ttf) format('truetype');
 }
